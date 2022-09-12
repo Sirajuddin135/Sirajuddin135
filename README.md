@@ -9,7 +9,7 @@ I am an aspiring full-stack developer capable of developing and maintaining web 
 
 - 💬 Ask me about Java/DSA/JS/HTML/CSS
 
-- Checkout my [Portfolio](https://shaik-sirajuddin-portfolio.netlify.app)
+- Checkout my [Portfolio](https://sirajuddin135.github.io/)
 
 <a href="https://www.linkedin.com/in/shaik-sirajuddin-aa21551b3/">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
