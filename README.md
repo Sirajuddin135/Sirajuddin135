@@ -14,7 +14,7 @@ I am an aspiring full-stack developer capable of developing and maintaining web 
 <a href="https://www.linkedin.com/in/shaik-sirajuddin-aa21551b3/">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
 
-<a href="https://www.hackerrank.com/shaiksirajuddin">
+<a href="https://www.hackerrank.com/fw18_0110">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" alt="HackerRank Logo" width="130px"/></a>
 
 <a href="https://leetcode.com/Shaik_Sirajuddin/">
