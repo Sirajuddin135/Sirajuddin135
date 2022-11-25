@@ -5,7 +5,7 @@ I am an aspiring full-stack developer capable of developing and maintaining web 
     
 - 👩‍💻 I'm currently working on improving my skills
 
-- 🧠 I'm currently learning MySQL
+- 🧠 I'm currently learning SpringBoot
 
 - 💬 Ask me about Java/DSA/JS/HTML/CSS
 
