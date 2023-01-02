@@ -46,5 +46,4 @@ I am an aspiring full-stack developer capable of developing and maintaining web 
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirajuddin135&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Shaik Sirajuddin" height="275px" width="30%"/>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Sirajuddin135&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
 </div>
