@@ -1,7 +1,7 @@
 # Hi, I'm Shaik Sirajuddin! 👋
 ## 🚀 About Me
 
-I am an aspiring full-stack developer capable of developing and maintaining web applications using Java, MySQL and have knowledge of other front-end technologies. I am passionate about improving the skills needed to achieve my goals and smooth my career journey. 
+I am an aspiring full-stack developer capable of developing and maintaining web applications using Java, Spring Boot, HTML, CSS, JavaScript, MySQL. I am passionate about improving the skills needed to achieve my goals and smooth my career journey. 
     
 - 👩‍💻 I'm currently working on improving my skills
 
