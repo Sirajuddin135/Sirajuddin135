@@ -44,6 +44,6 @@ I am an aspiring full-stack developer capable of developing and maintaining web 
   
 </br>  
 
-<div>
+<!-- <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirajuddin135&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Shaik Sirajuddin" height="275px" width="30%"/>
-</div>
+</div>-->
